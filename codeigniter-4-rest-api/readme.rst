@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/rest-api-crud-example-in-codeigniter-4/
