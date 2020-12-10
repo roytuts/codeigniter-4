@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/sort-mysql-table-data-in-ascending-or-descending-order-in-codeigniter-4/
