@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/ajax-example-with-codeigniter-4-and-mysql-check-username-availability/
