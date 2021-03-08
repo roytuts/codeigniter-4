@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/how-to-call-stored-procedure-in-codeigniter-4/
