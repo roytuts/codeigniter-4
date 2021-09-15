@@ -1,0 +1,1 @@
+You can go through the tutorial https://roytuts.com/codeigniter-4-mysql-8-crud-example/
