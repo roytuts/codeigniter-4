@@ -143,7 +143,7 @@ class VisitorTracker {
                  * find the next available visitor_id for the database
                  * to assign to this person
                  */
-                $this->ci->session->set_userdata('track_session', FALSE);
+                $session->set_userdata('track_session', FALSE);
             } else {
                 /**
                  * find the next available visitor_id for the database
