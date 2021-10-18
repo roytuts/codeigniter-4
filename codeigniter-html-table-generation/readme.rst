@@ -1,0 +1,1 @@
+You can read tutorial https://roytuts.com/codeigniter-4-generate-html-table-data/
