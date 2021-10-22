@@ -1,0 +1,1 @@
+To understand thoroughly follow the tutorial https://roytuts.com/codeigniter-4-filters-example/
