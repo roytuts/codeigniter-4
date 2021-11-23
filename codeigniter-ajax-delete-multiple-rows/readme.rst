@@ -1,0 +1,1 @@
+Please follow the tutorial https://roytuts.com/codeigniter-4-ajax-mysql-multiple-rows-deletion/
