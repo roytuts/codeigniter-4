@@ -33,7 +33,7 @@ class Home extends BaseController {
 		$data['new_user'] = $response;
 		
 		//PUT - update user
-		$put_endpoint = '/api/users';
+		$put_endpoint = '/api/users/707';
 		
 		$request_data = json_encode(array("name" => "Soumitra", "job" => "Roy Tutorials Author", "avatar" => "https://roytuts.com/about/"));
 		
